@@ -1,0 +1,9 @@
+{
+  "id": "mission_nigeria_1",
+  "location": "Lagos",
+  "question": "Which Nigerian legend played for PSG and was known for his dazzling skills?",
+  "options": ["Kanu Nwankwo", "Jay-Jay Okocha", "Obafemi Martins", "Victor Osimhen"],
+  "correct_answer": "Jay-Jay Okocha",
+  "xp_reward": 200,
+  "player_name": "Jay-Jay Okocha"
+}
